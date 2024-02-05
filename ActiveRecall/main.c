@@ -80,5 +80,6 @@ do
 
 
 fclose(questions);
+fclose(answers);
 }
 
